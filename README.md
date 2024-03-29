@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div align="center"></div>
-	<table border="1" width="550" height="300">
+	<table border="1" width="800" height="300">
 		<tr align="center">
 			<td>이름</td>
 			<td> <input type = "text" name= "txtName"  size ="10"></td>
